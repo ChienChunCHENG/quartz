@@ -1,5 +1,5 @@
 # 🌱 Quartz
-## v1.1
+## v1.2
 
 Simple second brain and [digital garden](https://jzhao.xyz/posts/digital-gardening).
 
