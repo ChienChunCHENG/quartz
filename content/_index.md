@@ -1,23 +1,26 @@
-# 🌱 Quartz
-## v1.2
+# RAN1#106 8.4.1
 
-Simple second brain and [digital garden](https://jzhao.xyz/posts/digital-gardening).
+## Issue 
+K_offset details
+[[K_offset format]]
+[[K_offset update]]
 
-## Why Quartz?
-Hosting a public digital garden isn't easy. There are an overwhelming number of tutorials, resources, and guides for tools like [Notion](https://www.notion.so/), [Roam](https://roamresearch.com/), and [Obsidian](https://obsidian.md/), yet none of them have super easy to use *free* tools to publish that garden to the world.
+K_offset usage
+[[PDCCH ordered PRACH]]
+[[BFR window]]
+[[CG type 1]]
 
-I've personally found that 
-1. It's nice to access notes from anywhere
-2. Having a public digital garden invites open conversations
-3. It makes keeping personal notes and knowledge *playful and fun*
+K_mac
+[[K_mac update]]
 
-> “He who works with the door open gets all kinds of interruptions, but he also occasionally gets clues as to what the world is and what might be important.” — Richard Hamming
+TA report
+[[TA report]]
 
-I was really inspired by [Bianca](https://garden.bianca.digital/) and [Joel](https://joelhooks.com/digital-garden)'s digital gardens and wanted to try making my own.
+K1 enhancement
+[[K1 indication]]
 
-**The goal of Quartz is to make hosting your own public digital garden free and simple.** You don't even need your own website. Quartz does all of that for you and gives your own little corner of the internet.
+MAC CE action time
+[[MAC CE action]]
 
-## Get Started
-The entire Quartz documentation is fully hosted using Quartz! To get started, let's visit the main directory.
-
-👉  [Directory](moc/directory.md)
+---
+TAG: #IA_sheet
